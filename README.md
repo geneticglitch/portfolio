@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+slowly migrating from my school github account @xnigthmarex
 
 <!--
 **geneticglitch/geneticglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
