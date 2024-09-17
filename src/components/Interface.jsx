@@ -65,7 +65,7 @@ const AboutSection = (props) => {
           delay: 1.5,
         }}
       >
-        I am a High school Student studying at Metea Valley.
+        Freshman at the University of Illinois Chicago
         
           <br />
           I am a full stack developer and a competitive programmer.
